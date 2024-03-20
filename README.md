@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @CamdenByrd
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning Java!
+- 💞️ I’m looking to collaborate on portfolio projects!
+- 📫 Reach me at my email: camdenbyrd6@gmail.com
+- 😄 Pronouns: he/him
